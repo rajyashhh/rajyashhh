@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building a platform!<br>i'm currently learning ReactJS
+I'm currently working on building a SAAS platform!<br>I'm currently learning ReactJS
 
 
 ## 🌐 Socials:
