@@ -1,6 +1,8 @@
 # 💫 About Me:
 
 I ship reliable MVPs superfast!
+
+
 Building scalable SAAS!
 
 
@@ -9,8 +11,9 @@ Building scalable SAAS!
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj.yashhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashhhhh) 
 ![](https://komarev.com/ghpvc/?username=rajyashhh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj.yashhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashhhhh) 
+
 
 
 # 📊 GitHub Stats:
