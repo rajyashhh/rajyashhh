@@ -33,6 +33,8 @@ Building scalable SAAS!
 ---
 [![](https://visitcount.itsvg.in/api?id=rajyashhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajyashhh/rajyashhh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajyashhh/rajyashhh/output/github-snake.svg" />
