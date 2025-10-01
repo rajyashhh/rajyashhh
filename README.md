@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 I ship reliable MVPs superfast!
-
 Building scalable SAAS!
 
 
