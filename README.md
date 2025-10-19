@@ -19,8 +19,7 @@ Student at day, dev at night!
 
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajyashhh&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajyashhh&theme=dark&hide_border=true&cache_seconds=0)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=rajyashhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyashhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=11760&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue_navy)
