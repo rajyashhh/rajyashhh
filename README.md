@@ -31,6 +31,7 @@ Student at day, dev at night!
 ![](https://github-contributor-stats.vercel.app/api?username=rajyashhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<br/>
 [![](https://visitcount.itsvg.in/api?id=rajyashhh&icon=0&color=0)](https://visitcount.itsvg.in)
 <br/>
 
